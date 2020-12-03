@@ -32,6 +32,4 @@ Touhou Project Series, which is created by Team Shanghai Alice. The creator publ
 We might keep working on this project to improve it into a full-length bullet hell game.
 
 # Created by: Danmaku
-Tianyang Shen
-Dongxin Tian
-Nicole Ni
+Tianyang Shen, Dongxin Tian, and Nicole Ni
